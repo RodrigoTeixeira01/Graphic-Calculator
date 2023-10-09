@@ -29,7 +29,8 @@ public class Main extends JFrame {
 	}
 	
 	private double calc(double x, double y) {
-		return x*x*x*x*x-350*x*x*x+9999*x-6500*y;
+		return x*x*x*x*x-350*x*x*x+9999*x-6500*y; // change graphic here
+		// it graphs the pixels where the value is zero
 		
 	}
 
